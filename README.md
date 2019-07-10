@@ -14,7 +14,7 @@ Notez from my Internship(07/09/2019)
    - cnpm install -g @vue/cli
    - vue create ***vue_test***
    - >vue/Cli ***Options***
-   ![vueD Vue](./picz/vueD.png)
+   ![vueD Vue](./picz/vueD.PNG)
    - cd ***vue_test***
    - npm run serve
    - [goto Poj.Path]cnpm install
