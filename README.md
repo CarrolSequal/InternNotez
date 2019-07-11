@@ -19,3 +19,8 @@ Notez from my Internship(07/09/2019)
    - npm run serve
    - [goto Poj.Path]cnpm install
    - npm  run build
+   
+>Total Tipz:
+   
+   - CMD---terminate : [<kbd>Ctrl</kbd>+<kbd>C</kbd>]-->Y
+   - MySQL---terminate : <kbd>Ctrl</kbd>+<kbd>Z</kbd>
